@@ -2,8 +2,8 @@
 MEng Electronic Engineering | University of Southampton | First Class with Honours
 
 ## Work 🧑‍💻
-Jul 2024 - Current: T Rowe Price | Fixed Income Attribution Tech <br>
-Aug 2018 - Jul 2024: Morgan Stanley | Investment Management Tech <br>
+<b>Jul 2024 - Current</b> T Rowe Price | Fixed Income Attribution Tech <br>
+<b>Aug 2018 - Jul 2024</b> Morgan Stanley | Investment Management Tech <br>
 
 ## Interests 📖
 - Doing deep dives on the Java ecosystem
