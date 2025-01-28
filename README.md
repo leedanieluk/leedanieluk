@@ -1,16 +1,12 @@
-## Hi there 👋
+## Education 🎓
+MEng Electronic Engineering | University of Southampton | First Class with Honours
 
-<!--
-**leedanieluk/leedanieluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work 🧑‍💻
+Jul 2024 - Current: T Rowe Price | Fixed Income Attribution Tech
+Aug 2018 - Jul 2024: Morgan Stanley | Investment Management Tech
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 📖
+- Doing deep dives on the Java ecosystem
+- Learning about how software and hardware interact
+- Studying the financial sector (currently preparing for CFA I)
+- Becoming more proficient using NeoVim
