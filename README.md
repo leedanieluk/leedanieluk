@@ -10,4 +10,4 @@ MEng Electronic Engineering | University of Southampton | First Class with Honou
 - Doing deep dives on the Java ecosystem
 - Learning about how software and hardware interact
 - Studying the financial sector (currently preparing for CFA I)
-- Becoming more proficient using NeoVim
+- Becoming more proficient using NeoVim ⌨️
