@@ -1,5 +1,5 @@
 ## Education 🎓
-MEng Electronic Engineering | University of Southampton | First Class with Honours
+MEng Electronic Engineering with Artificial Intelligence | University of Southampton | First Class with Honours
 
 ## Work 🧑‍💻
 <b>(Mar 2025 - Present)</b> Jefferies | Core E-Trading (Fixed Income) Tech <br>
