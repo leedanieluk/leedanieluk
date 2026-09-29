@@ -16,4 +16,4 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 
 ## Random facts about me 📚
 - I was born in Argentina from Korean parents and now live in the UK
-- During the Graduate Scheme at Morgan Stanley, I had the pleasure to attend a talk by Bjarne Stroustrup for our cohort
+- Had the chance to attend a talk by the legend Bjarne Stroustrup to our cohort during the Morgan Stanley grad scheme
