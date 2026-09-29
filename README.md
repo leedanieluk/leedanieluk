@@ -14,5 +14,6 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 - Studying the financial sector (currently preparing for CFA I)
 - Becoming more proficient using NeoVim ⌨️
 
-## Random fun facts
-During the Graduate Scheme at Morgan Stanley, I had the pleasure to attend a talk by Bjarne Stroustrup for our cohort.
+## Random facts about me 📚
+- I was born in Argentina from Korean parents and now live in the UK
+- During the Graduate Scheme at Morgan Stanley, I had the pleasure to attend a talk by Bjarne Stroustrup (creator of C++) for our cohort
