@@ -1,5 +1,5 @@
 ## Education 🎓
-MEng Electronic Engineering with Artificial Intelligence | University of Southampton | First Class with Honours
+MEng Electronic Engineering with Artificial Intelligence | University of Southampton | First Class with Honours <br>
 Here is a preview of the work I did on AI at the time: <a href="https://github.com/leedanieluk/3rdYearProject/blob/master/projectstuff/final_report.pdf">'Linear Quadratic Regulation using Reinforcement Learning'</a>
 
 ## Work 🧑‍💻
@@ -14,5 +14,5 @@ Here is a preview of the work I did on AI at the time: <a href="https://github.c
 - Studying the financial sector (currently preparing for CFA I)
 - Becoming more proficient using NeoVim ⌨️
 
-## Fun fact about me
-During the Graduate Scheme at Morgan Stanley, I had the pleasure to attend a talk by Bjarne Stroustrup (yes, him!) for our cohort.
+## Random fun facts
+During the Graduate Scheme at Morgan Stanley, I had the pleasure to attend a talk by Bjarne Stroustrup for our cohort.
