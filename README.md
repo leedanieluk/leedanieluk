@@ -1,6 +1,6 @@
 ## Education 🎓
 MEng Electronic Engineering with Artificial Intelligence | University of Southampton | First Class with Honours <br>
-Here is a preview of the work I did on AI at the time: <a href="https://github.com/leedanieluk/3rdYearProject/blob/master/projectstuff/final_report.pdf">'Linear Quadratic Regulation using Reinforcement Learning'</a>
+<i>Preview of some of my AI work</i>: <a href="https://github.com/leedanieluk/3rdYearProject/blob/master/projectstuff/final_report.pdf">Linear Quadratic Regulation using Reinforcement Learning</a>
 
 ## Work 🧑‍💻
 <b>(Mar 2025 - Present)</b> Jefferies | Core E-Trading (Fixed Income) Tech <br>
