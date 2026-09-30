@@ -13,7 +13,3 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 - Learning about how software and hardware interact
 - Studying the financial sector (currently preparing for CFA I)
 - Becoming more proficient using NeoVim ⌨️
-
-## Random facts about me 📚
-- I was born in Argentina from Korean parents and now live in the UK
-- Had the chance to attend a talk by the legend Bjarne Stroustrup to our cohort during the Morgan Stanley grad scheme
