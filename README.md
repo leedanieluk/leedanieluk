@@ -13,3 +13,8 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 - Learning about how software and hardware interact
 - Studying the financial sector (currently preparing for CFA I)
 - Becoming more proficient using NeoVim ⌨️
+
+## Languages 🌎
+- English (Fluent)
+- Spanish (Native)
+- Korean (Fluent)
