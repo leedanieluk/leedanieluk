@@ -19,3 +19,4 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 - English (Fluent)
 - Spanish (Native)
 - Korean (Fluent)
+- French (B2 Level)
