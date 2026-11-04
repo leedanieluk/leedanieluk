@@ -3,11 +3,11 @@ MEng Electronic Engineering with Artificial Intelligence | University of Southam
 <i>Preview of some of my AI work</i>: <a href="https://github.com/leedanieluk/3rdYearProject/blob/master/projectstuff/final_report.pdf">Linear Quadratic Regulation using Reinforcement Learning</a>
 
 ## Work 🧑‍💻
-<b>(Nov 2026 - Present)</b> Bloomberg | Multi-Asset Index Pricing Team <br>
-<b>(Mar 2025 - Oct 2026)</b> Jefferies | Front-Office Core E-Trading Fixed Income Tech <br>
-<b>(Jul 2024 - Feb 2025)</b> T Rowe Price | Front-Office Fixed Income Attribution Tech <br>
-<b>(Oct 2018 - Jul 2024)</b> Morgan Stanley | Investment Management Tech <br>
-<b>(Aug 2018 - Oct 2024)</b> Morgan Stanley | Technology Graduate Scheme
+<b>(Nov 2026 - Present)</b> Bloomberg | Senior Software Engineer | Multi-Asset Index Pricing Team <br>
+<b>(Mar 2025 - Oct 2026)</b> Jefferies | Software Engineer | Front-Office Core E-Trading Fixed Income Tech <br>
+<b>(Jul 2024 - Feb 2025)</b> T Rowe Price | Software Engineer | Front-Office Fixed Income Attribution Tech <br>
+<b>(Oct 2018 - Jul 2024)</b> Morgan Stanley | Software Engineer | Investment Management Tech <br>
+<b>(Aug 2018 - Oct 2024)</b> Morgan Stanley | Graduate Software Engineer | Technology Graduate Scheme
 
 ## Interests 📖
 - Doing deep dives on the Java ecosystem
