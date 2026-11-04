@@ -24,4 +24,4 @@
 - English (Fluent)
 - Spanish (Native)
 - Korean (Fluent)
-- French (B2 Level)
+- French (Basic/B2)
